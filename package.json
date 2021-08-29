@@ -1,0 +1,16 @@
+{
+  "name": "expressDemo",
+  "version": "1.0.0",
+  "description": "course = https://www.youtube.com/watch?v=pKd0Rpw7O48&t=183s&ab_channel=ProgrammingwithMosh",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
